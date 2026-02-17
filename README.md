@@ -121,4 +121,4 @@ MIT — do whatever you want with it.
 
 ---
 
-Built by [@minilozio](https://x.com/estheliah) 🦎
+Built by [@minilozio](https://x.com/minilozio) 🦎
