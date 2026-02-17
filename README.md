@@ -12,12 +12,12 @@ Same model (Gemini 3 Pro). Same subject. Different prompting.
 
 | Plain Prompt | With This Skill |
 |:---:|:---:|
-| ![before-1](examples/before-1.png) | ![after-1](examples/after-1.png) |
+| ![before-1](examples/before-1.jpg) | ![after-1](examples/after-1.jpg) |
 | *"a samurai in the rain"* | *Structured JSON with ARRI Alexa 65, CineStill 800T, rim lighting, shallow DOF...* |
 
 | Plain Prompt | With This Skill |
 |:---:|:---:|
-| ![before-2](examples/before-2.png) | ![after-2](examples/after-2.png) |
+| ![before-2](examples/before-2.jpg) | ![after-2](examples/after-2.jpg) |
 | *"sunflowers in watercolor"* | *Structured JSON with cold press paper, wet-on-wet technique, limited palette...* |
 
 ## How It Works
