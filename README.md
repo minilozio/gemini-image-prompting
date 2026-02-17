@@ -13,7 +13,7 @@ Same model (Gemini 3 Pro). Same subject. Different prompting.
 | Plain Prompt | With This Skill |
 |:---:|:---:|
 | ![before-1](examples/before-1.jpg) | ![after-1](examples/after-1.jpg) |
-| *"a samurai in the rain"* | *Structured JSON with ARRI Alexa 65, CineStill 800T, rim lighting, shallow DOF...* |
+| *"a gecko in a hoodie by a barrel fire"* | *Structured JSON with Sony A7IV, 35mm f/1.4, Kodak Portra 400, chiaroscuro lighting...* |
 
 | Plain Prompt | With This Skill |
 |:---:|:---:|
