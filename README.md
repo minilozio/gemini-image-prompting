@@ -1,4 +1,4 @@
-# gemini-image-prompting
+# nano-banana-prompting-skill
 
 Your AI agent's image prompts are mid. This skill fixes that.
 
@@ -61,7 +61,7 @@ Your agent **auto-detects** the right style from your request, or you can specif
 
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/minilozio/gemini-image-prompting.git
+git clone https://github.com/minilozio/nano-banana-prompting-skill.git
 ```
 
 ### Claude Code
@@ -69,7 +69,7 @@ git clone https://github.com/minilozio/gemini-image-prompting.git
 ```bash
 mkdir -p .claude/skills
 cd .claude/skills
-git clone https://github.com/minilozio/gemini-image-prompting.git
+git clone https://github.com/minilozio/nano-banana-prompting-skill.git
 ```
 
 ### Setup

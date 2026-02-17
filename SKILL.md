@@ -1,5 +1,5 @@
 ---
-name: gemini-image-prompting
+name: nano-banana-prompting-skill
 description: Transform natural language image requests into optimized structured prompts for Gemini image generation. Automatically detects style and builds the perfect prompt — cinematic, illustration, anime, 3D, watercolor, product, and more.
 metadata:
   {
