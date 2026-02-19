@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://clawhub.ai/skills/nano-banana-prompting"><img src="https://img.shields.io/badge/ClawHub-Install-orange?style=flat-square" alt="ClawHub" /></a>
   <a href="https://github.com/minilozio/nano-banana-prompting-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
   <img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="v1.0.0" />
   <img src="https://img.shields.io/badge/OpenClaw-compatible-red?style=flat-square" alt="OpenClaw" />
@@ -67,8 +68,12 @@ Your agent **auto-detects** the right style from your request, or you can specif
 
 ## Install
 
-### OpenClaw
+### ClawHub (recommended)
+```bash
+clawhub install nano-banana-prompting
+```
 
+### OpenClaw (manual)
 ```bash
 cd ~/.openclaw/workspace/skills
 git clone https://github.com/minilozio/nano-banana-prompting-skill.git
