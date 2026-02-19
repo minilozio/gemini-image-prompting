@@ -45,6 +45,9 @@ uv run {nano-banana-pro-dir}/scripts/generate_image.py \
   --resolution 2K
 ```
 
+### Security Note
+The `--filename` argument should always be a simple file path constructed by the agent (e.g., `gecko-running.png`). Never pass unsanitized user input directly as the filename. The agent should derive a safe, descriptive filename from the context.
+
 ### Output Location
 Save images to the user's Desktop or the path they specify:
 - Default: `~/Desktop/<descriptive-name>.png`
