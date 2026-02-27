@@ -15,6 +15,8 @@ Your AI agent's image prompts are mid. This skill fixes that.
 
 **Transform natural language into optimized structured prompts** for Gemini image generation. Works with [OpenClaw](https://openclaw.ai) and [Claude Code](https://code.claude.com).
 
+> **Works with both Gemini 3 Pro Image and Gemini 3.1 Flash (Nano Banana 2).** Same prompting rules, same structured JSON — both models benefit equally.
+
 You say *"a gecko eating pizza on a skateboard"* → the skill builds a detailed JSON prompt with camera specs, lighting, materials, composition → Gemini produces a cinematic masterpiece instead of AI slop.
 
 ## Before / After
